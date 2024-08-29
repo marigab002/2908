@@ -1,0 +1,32 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+header{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 2em;
+}
+header img {
+    width: 44vw;
+    border-radius: 1em;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.banner img {
+    border-radius: 1em;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+}
